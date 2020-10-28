@@ -1,0 +1,4 @@
+node_modules
+config.js
+.history
+package-lock.json
